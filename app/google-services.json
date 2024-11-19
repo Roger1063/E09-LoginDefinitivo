@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "230607497518",
+    "project_id": "e09-logindefinitivo",
+    "storage_bucket": "e09-logindefinitivo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230607497518:android:715a4bbd98aab20a89b2bf",
+        "android_client_info": {
+          "package_name": "com.rdc.e09_logindefinitivo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "230607497518-nj0bnnslo3msd3nqg6h15i9t30i8p10v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rdc.e09_logindefinitivo",
+            "certificate_hash": "0b7cd1de9faea19162c6ca264bc7451d9513164a"
+          }
+        },
+        {
+          "client_id": "230607497518-616jqsn48jvbu7gtd9gs8747mh8582sg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBK_1G2uh7MmoiUUZkukaxLpWCFwIBuinE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "230607497518-616jqsn48jvbu7gtd9gs8747mh8582sg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
